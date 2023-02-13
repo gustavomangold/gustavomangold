@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey! 
+I'm a last semester Physics student, looking to use my knowledge in all the stuff I've studied over the years and implement it into code.
+I am very familiar with:
 
-<!--
-**gustavomangold/gustavomangold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <i class="devicon-java-plain-wordmark colored"></i>  <i class="devicon-python-plain"></i>  <i class="devicon-c-plain"></i>
+  
+I am learning:
+  
+  <i class="devicon-javascript-plain"></i>  <i class="devicon-jupyter-plain"></i>
+          
+          
+          
+          
+          
