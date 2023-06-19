@@ -7,7 +7,7 @@ I'm comfortable with:
 
 I'm learning:
 
-<img src="https://img.icons8.com/?size=512&id=xF33DQdGyLDz&format=png" width='40'/> 
+<img src="https://img.icons8.com/?size=512&id=xF33DQdGyLDz&format=png" width='40'/> <img src="https://img.icons8.com/?size=512&id=74402&format=png" width='40'/>
           
 
           
