@@ -1,5 +1,5 @@
 Hey! 
-I am Gustavo, a B. Sc. in Physics looking to use my knowledge in all the stuff I've studied over the years and implement it into code.
+I am Gustavo, a B.Sc. in Physics looking to use my knowledge in all the stuff I've studied over the years and implement it into code.
 
 I'm comfortable with: 
 
