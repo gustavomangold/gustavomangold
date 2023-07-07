@@ -7,7 +7,7 @@ I'm comfortable with:
 
 I'm learning:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres, hadoop, spark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,hadoop,spark)](https://skillicons.dev)
 
           
 
