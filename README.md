@@ -1,5 +1,5 @@
 Hey! 
-I am Gustavo, a M.Sc. student in Physics and Machine Learning looking to use my knowledge in all the stuff I've studied over the years and implement it into code.
+I am Gustavo, a Software Developer and M.Sc. student in Physics and Machine Learning looking to use my knowledge in all the stuff I've studied over the years and implement it into code.
 
 I'm comfortable with: 
 
