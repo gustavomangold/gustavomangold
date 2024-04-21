@@ -7,11 +7,4 @@ I'm comfortable with:
 
 I'm learning:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,r, julia)](https://skillicons.dev)
-
-          
-
-
-           
-          
-          
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg' width='40'/>
