@@ -9,6 +9,5 @@ I'm comfortable with:
 
 I'm learning:
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg' width='40'> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width='40'
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg' width='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" width='40'
            />
