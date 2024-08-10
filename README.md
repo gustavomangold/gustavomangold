@@ -6,7 +6,8 @@ I'm comfortable with:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='40'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='40'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='40'> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='40'> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = '40'/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" width='60'/>
 
 I'm learning:
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg' width='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" width='60'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg' width='40'> 
