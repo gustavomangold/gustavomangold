@@ -7,7 +7,3 @@ I'm comfortable with:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='40'> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = '40'/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" width='60'/>
-
-I'm learning:
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg' width='40'> 
